@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-/* Base reset */
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -15,7 +15,7 @@ body {
   height: 100vh;
 }
 
-/* Container layout */
+
 .container {
 
   padding: 2rem 3rem;
@@ -24,7 +24,7 @@ body {
   text-align: center;
 }
 
-/* Headings */
+
 #verification_heading {
   font-size: 2rem;
   font-weight: bold;
@@ -37,7 +37,6 @@ body {
   margin-bottom: 2rem;
 }
 
-/* OTP Input Fields */
 .code-container {
   display: flex;
   justify-content: space-between;
